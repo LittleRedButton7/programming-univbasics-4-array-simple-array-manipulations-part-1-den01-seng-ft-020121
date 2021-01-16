@@ -1,7 +1,7 @@
 require 'pry'
 
 def using_push(array, string)
-  array = "violet"
+  array.push(string)
 end
 
 
